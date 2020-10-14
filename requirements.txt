@@ -3,3 +3,4 @@ boto
 extruct
 w3lib
 jinja2
+awscli==1.15.1
